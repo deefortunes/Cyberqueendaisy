@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Risk Assessment (Datacom)</b>
-  - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/Risk_Assessment)
+  - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
 - 
 
 <h2>📺 Popular YouTube Videos</h2>
