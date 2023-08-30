@@ -13,7 +13,7 @@
 <!--
 <h2> 🤳 Connect with me:</h2>
 
-[<img align=”left” alt=”JoshMadakor | YouTube” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg />][youtube]
+[<img align=”centre” alt=”JoshMadakor | YouTube” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg />][youtube]
 [<img align=”left” alt=”JoshMadakor | Twitter” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg />][twitter]
 [<img align=”left” alt=”JoshMadakor | LinkedIn” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedin]
 [<img align=”left” alt=”JoshMadakor | Instagram” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg />][instagram]
@@ -21,4 +21,15 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor -->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="centre" alt="Dee | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="centre" alt="Dee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="centre" alt="Daisy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/dee
+[youtube]: https://www.youtube.com/c/cyberqueen
+[linkedin]: https://linkedin.com/in/daisydicksonhart
