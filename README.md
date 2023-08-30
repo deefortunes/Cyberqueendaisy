@@ -4,30 +4,28 @@
 
 - <b>Risk Assessment (Datacom)</b>
   - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
-- [Test](https://github.com/cyberqueendaisy/riskassessment)
+  - [Test](https://github.com/cyberqueendaisy/riskassessment)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2> Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Certification](https://drive.google.com/file/d/1TiOOj_hv_OVq4TpH9Twmsrlcb41YSOcj/view?usp=drivesdk)
 
-<!--
-<h2> 🤳 Connect with me:</h2>
+- [Blue Team Junior Analyst](https://drive.google.com/file/d/1NRGx8x6J2d7FTZiCuqATYQq67-rrzU-q/view?usp=drivesdk)
 
-[<img align=”centre” alt=”JoshMadakor | YouTube” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg />][youtube]
-[<img align=”left” alt=”JoshMadakor | Twitter” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg />][twitter]
-[<img align=”left” alt=”JoshMadakor | LinkedIn” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedin]
-[<img align=”left” alt=”JoshMadakor | Instagram” width=”22px” src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg />][instagram]
+<h2> Data Analytics Projects </h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor -->
+- <b> Python </b>
+
+<h2>📺 YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="centre" alt="Dee | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="centre" alt="Dee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="centre" alt="Daisy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Dee | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Dee | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Daisy | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [twitter]: https://twitter.com/dee
