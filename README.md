@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Risk Assessment (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Risk Assessment (Datacom)</b>
+  - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/Risk_Assessment)
 - 
 
 <h2>📺 Popular YouTube Videos</h2>
